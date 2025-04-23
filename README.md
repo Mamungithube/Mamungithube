@@ -1,7 +1,5 @@
-### Hi there 👋, I am Md. Mamun Or Rashid
-#### Web developer(Backend)
-<h1 align="center">Hi there, I'm glad to see you here! 👋</h1>
-
+<h1 align="center"> Hi there 👋, I am Md. Mamun Or Rashid 👋</h1>
+<p>Web developer(Backend)</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+Django+Specialist;Loves+Clean+Code+%26+Scalable+Designs" alt="Typing SVG" />
 </p>
