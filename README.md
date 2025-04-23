@@ -1,20 +1,75 @@
 ### Hi there 👋, I am Md. Mamun Or Rashid
 #### Web developer(Backend)
-![Web developer(Backend)](https://media.licdn.com/dms/image/v2/D5616AQGOhXfqCqRFrQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714757497721?e=1735171200&v=beta&t=ke1a8pvIhedNBO-rG7i83nZbYq67fGqU1PEj0qDpr3M)
+<h1 align="center">Hi there, I'm glad to see you here! 👋</h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mamungithube)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Md Mamun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md Mamun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/md_mamun5080_bd/)  
-I am a backend developer specializing in Django, with a strong focus on building scalable and maintainable web applications. My experience includes working with Django Rest Framework to create robust APIs, integrating various databases, and implementing user authentication and authorization. I am passionate about writing clean, efficient code and am constantly looking to improve my skills through new projects and challenges.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+Django+Specialist;Loves+Clean+Code+%26+Scalable+Designs" alt="Typing SVG" />
+</p>
 
-I thrive in collaborative environments and enjoy working on diverse projects that challenge my problem-solving abilities. In my spare time, I contribute to open-source projects and stay updated with the latest trends in web development.
+---
 
-Feel free to modify it to better reflect your personal style or add any specific projects or technologies you want to highlight!
+### 👨‍💻 About Me
 
+I’m a **skilled software developer** specializing in **backend development** with a strong foundation in **data structures and algorithms**, ensuring efficient and scalable solutions.
 
-Skills:  HTML / CSS / JS / C / C++ / PYTHON / SQL / API / REST Framework / Django
+🛠️ I mainly work with:
+- **Languages:** Python, C/C++, JavaScript, HTML5, CSS3
+- **Frameworks & Tools:** Django, Django REST Framework, FastAPI, JWT, Bootstrap
+- **Databases:** PostgreSQL, MySQL, SQLite, Supabase
+- **Deployment:** GitHub Pages, Render, Vercel
+- **Version Control:** Git & GitHub
 
-- 🌱 I’m currently learning React.js 
-- 👯 I’m looking to collaborate on githube 
-- 💬 Ask me about Web development  
+---
+
+### 🚀 Things I Code With
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🐦 [Facebook ](https://www.facebook.com/md.mamun.112648/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-mamun-43123b2a0/)
+- 📬 [Email](orroshidmdmamun50@gmail.com)
+
+---
+
+*Thanks for visiting my profile! Have a great day! 🌸*
+
 
 
 
