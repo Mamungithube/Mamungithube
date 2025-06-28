@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I am Md. Mamun Or Rashid 👋</h1>
-<p>Web developer(Backend)</p>
+<p>Python developer(Backend/Django)</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+Django+Specialist;Loves+Clean+Code+%26+Scalable+Designs" alt="Typing SVG" />
 </p>
@@ -12,7 +12,7 @@ I’m a **skilled software developer** specializing in **backend development** w
 
 🛠️ I mainly work with:
 - **Languages:** Python, C/C++, JavaScript, HTML5, CSS3
-- **Frameworks & Tools:** Django, Django REST Framework, FastAPI, JWT, Bootstrap
+- **Frameworks & Tools:** Django, Django REST Framework, JWT, Bootstrap
 - **Databases:** PostgreSQL, MySQL, SQLite, Supabase
 - **Deployment:** GitHub Pages, Render, Vercel
 - **Version Control:** Git & GitHub
@@ -25,7 +25,6 @@ I’m a **skilled software developer** specializing in **backend development** w
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
