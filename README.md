@@ -14,7 +14,7 @@ I’m a **skilled software developer** specializing in **backend development** w
 - **Languages:** Python, C/C++, JavaScript, HTML5, CSS3
 - **Frameworks & Tools:** Django, Django REST Framework, JWT, Bootstrap
 - **Databases:** PostgreSQL, MySQL, SQLite, Supabase
-- **Deployment:** GitHub Pages, Render, Vercel
+- **Deployment:** GitHub Pages, Render, Vercel , VPS
 - **Version Control:** Git & GitHub
 
 ---
